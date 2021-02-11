@@ -1,4 +1,4 @@
-Metadata-Version: 1.1
+Metadata-Version: 1.2
 Name: osc4py3
 Version: 1.0.8
 Summary: Python3 package for Open Sound Control (OSC) communications.
@@ -79,3 +79,4 @@ Classifier: License :: OSI Approved :: CEA CNRS Inria Logiciel Libre License, ve
 Classifier: Topic :: Scientific/Engineering
 Classifier: Topic :: Software Development :: Libraries :: Python Modules
 Classifier: Topic :: Multimedia :: Sound/Audio
+Requires-Python: >=3.2

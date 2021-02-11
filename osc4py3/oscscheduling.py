@@ -452,7 +452,7 @@ class Monitor:
                             "for monitor %d.", id(self))
         except:
             if self.logger is not None:
-                self.logger.exceptio("OSC Failure in monitoring thread "\
+                self.logger.exception("OSC Failure in monitoring thread "\
                             "for monitor %d.", id(self))
 
     @staticmethod

@@ -1,6 +1,12 @@
 OSC for Python3
 ===============
 
+2021-Feb-10 github.com/rjhornsby
+ * Forked from author's SVN, https://sourcesup.renater.fr/projects/osc4py3/
+ * Fixed minor typo in oscscheduling.py
+
+Original README content below without modification.
+
 :author: Laurent Pointal <laurent.pointal@limsi.fr> <laurent.pointal@laposte.net>
 :organization: CNRS - LIMSI
 :copyright: CNRS - 2013-2018
